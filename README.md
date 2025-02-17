@@ -2,6 +2,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TNhd91tGFZR-SDtTxAfG4tuyF0Sk-yPc?usp=sharing)
 [![Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download&select=fraudTrain.csv)
+[![Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download&select=fraudTrain.csv)
 
 ## Bussiness Understanding
 <table>
@@ -17,10 +18,6 @@
         <tr>
             <td>Bussiness Objective</td>
             <td>Membangun model machine learning guna membantu fraud detection dengan efektif dan cepat.  </td>
-        </tr>
-        <tr>
-            <td>Dataset</td>
-            <td> https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download&select=fraudTrain.csv </td>
         </tr>
     </tbody>
 </table>
