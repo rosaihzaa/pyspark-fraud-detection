@@ -19,6 +19,14 @@
             <td>Bussiness Objective</td>
             <td>Membangun model machine learning guna membantu fraud detection dengan efektif dan cepat.  </td>
         </tr>
+        <tr>
+            <td>Best Model</td>
+            <td>Gradient Boosting Tree</td>
+        </tr>
+        <tr>
+            <td>F1-Score</td>
+            <td>0.99</td>
+        </tr>
     </tbody>
 </table>
 
